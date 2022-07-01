@@ -10,7 +10,6 @@
 /system/app/MiuiDaemon
 /system/app/NextPay
 /system/app/PrintRecommendationService
-/system/app/PrintSpooler
 /system/app/SogouInput
 /system/app/Stk
 /system/app/VoiceAssist
