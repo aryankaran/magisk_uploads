@@ -1,0 +1,19 @@
+i) cinnamon high cpu usage fix (by simply restarting it out):
+cltrl + alt + esc                                                                                                                                                        
+
+ii) while booting up linux mint blank screen or whatever issue on ryzen 5 3500u (thats mine)
+reason: it happens due to kinda not complete presence of GPU drivers in 5.4 kernels (which linux mint ships with) 
+
+Fixes: 1) press cltrl+alt+F1 to open teminal -> login -> pkill cinnamon 
+        thats it now cinnamon will restart and hopefully fixed issue
+
+    2) upgrade kernel to above 5.8, i.e. boot with kernel and  vmlinuz of v5.8 or above kernel
+
+
+iii) switching desktops (aka workspaces): ctrl +alt/gr + < / >
+
+iv) open ttys:
+
+ctrl+ alt+ F1 .. F6 will give terminal and F7 will give open the GUI tty , i.e. tty7
+
+Thats all!
