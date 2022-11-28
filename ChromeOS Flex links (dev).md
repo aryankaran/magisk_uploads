@@ -1,3 +1,7 @@
+Serving builds: 
+https://chromiumdash.appspot.com/serving-builds?deviceCategory=ChromeOS%20Flex
+
+
 14516.0.0
 
 https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14516.0.0_reven_recovery_dev-channel_mp-v2.bin.zip
